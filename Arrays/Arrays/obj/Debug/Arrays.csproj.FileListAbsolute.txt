@@ -1,0 +1,2 @@
+D:\UNAH\Lenguaje 2\Proyectos\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+D:\UNAH\Lenguaje 2\Proyectos\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
